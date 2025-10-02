@@ -1,3 +1,12 @@
 pandas
 numpy
 seaborn
+scikit-learn
+matplotlib
+dataclasses 
+xgboost
+catboost
+joblib
+ipykernel
+scipy
+plotly
