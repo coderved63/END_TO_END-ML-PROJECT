@@ -6,7 +6,5 @@ matplotlib
 dataclasses 
 xgboost
 catboost
-joblib
-ipykernel
 scipy
-plotly
+dill
